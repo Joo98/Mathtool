@@ -3,7 +3,6 @@ def add(a, b):
   return a+b
 def subtract(a, b):
   return a-b
-<<<<<<< HEAD
 
 def multiply(a,b):
 	return a*b
@@ -11,8 +10,6 @@ def multiply(a,b):
 def divide_free(a,b):
 	return a/b
 
+def square(a):
+	return a*a
 	
-=======
-  def multiply(a, b):
-  	return a*b
->>>>>>> a09bdfc23387164545ceaa96b5cac0025769ce57
